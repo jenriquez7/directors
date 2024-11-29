@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: directa24-back-end-dev-challenge
+
+endpoints:
+  rootPath: /api
+  directorsPath: /directors
+  external:
+    eronMoviesUrl: https://eron-movies.wiremockapi.cloud/api/movies/search?page=
